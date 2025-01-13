@@ -14,8 +14,10 @@ Erlangen, Germany
 
 ## Description
 This repository contains all the data and code accompanying the publication:  
-"Autonomous Optimization of Air-Processed Perovskite Solar Cell in a 6D Parameter Space"  
-by Jiyun Zhang, Vincent M. Le Corre, Jianchang Wu, Tian Du, Tobias Osterrieder, Kaicheng Zhang, Handan Zhang, Larry Lüer, Jens Hauch, and Christoph J. Brabec. The publication is currently under review.
+J. Zhang, V. M. Le Corre, J. Wu, T. Du, T. Osterrieder, K. Zhang, H. Zhang, L. Lüer, J. Hauch, C. J. Brabec, 
+Autonomous Optimization of Air-Processed Perovskite Solar Cell in a Multidimensional Parameter Space. 
+Adv. Energy Mater. 2025, 2404957. 
+[https://doi.org/10.1002/aenm.202404957](https://doi.org/10.1002/aenm.202404957)
 
 ## Installation
 
@@ -26,3 +28,10 @@ by Jiyun Zhang, Vincent M. Le Corre, Jianchang Wu, Tian Du, Tobias Osterrieder, 
 ```
 
 Note that this code is based on the [BOAR](https://github.com/i-MEET/boar) package but is kept separate to avoid conflicts with the future development of the BOAR package and make it easy to run the same code as the one used in the publication.
+
+## Citation
+If you use this code, please cite the following publication:
+J. Zhang, V. M. Le Corre, J. Wu, T. Du, T. Osterrieder, K. Zhang, H. Zhang, L. Lüer, J. Hauch, C. J. Brabec,
+Autonomous Optimization of Air-Processed Perovskite Solar Cell in a Multidimensional Parameter Space.
+Adv. Energy Mater. 2025, 2404957.
+[https://doi.org/10.1002/aenm.202404957](https://doi.org/10.1002/aenm.202404957)
